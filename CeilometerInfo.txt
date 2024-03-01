@@ -1,0 +1,13 @@
+Ceilometer links
+
+Project : https://github.com/earlthesquirrel/ceilometer.git
+
+
+Check into AllSkyCamera :
+
+https://github.com/AllskyTeam/allsky
+
+and related instructable
+
+Also possibily tying that into:
+ https://www.geeksforgeeks.org/skycam-images-based-cloud-coverage-prediction-via-computer-vision-machine-learning/
